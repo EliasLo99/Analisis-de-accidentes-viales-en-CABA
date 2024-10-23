@@ -11,6 +11,7 @@ Para lograr este objetivo se nos otorgo 1 archivo xlsx, que consta de 2 hojas, H
 # Pasos que se utilizaron 
 # ETL (Extract, Transform, Load)
 Para este primer paso se ocupo la libreria de pandas
+
 Extracción: Los datos se obtuvieron a partir de dos datasets en formato excel (HECHOS Y VICTIMAS).
 
 Transformación: Se realizaron operaciones de limpieza, filtrado y transformación para preparar los datos para el análisis posterior. Por ejemplo:
