@@ -1,2 +1,5 @@
-       # Analisis-de-accidentes-viales-en-CABA
-   ![image](https://github.com/user-attachments/assets/e2679dd3-4ddc-47f5-b04a-149f5a3ac417)
+Proyecto de Análisis de Siniestros Viales en la Ciudad de Buenos Aires: Análisis de datos para la reducción de víctimas fatales
+
+
+Plantamiento del problema
+
