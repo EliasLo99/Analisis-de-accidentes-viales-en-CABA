@@ -38,7 +38,7 @@ Se creo un dashboard interactivo ("Siniestros Viales CABA.pbix") con la informac
 - Exploramos relaciones entre variables.
 - Información concisa para la toma de decisiones
 
-#Archivos del proyecto
+# Archivos del proyecto
 Datasets/: Archivos en bruto
 Datasets limpios/: Datos limpios
 ETL-EDA/: Notebooks con procesos de ETL y EDA.
